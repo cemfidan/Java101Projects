@@ -1,4 +1,4 @@
 # Java101 Projects
 
-Basic Java projects from [Kodluyoruz.org](https://app.patika.dev/) lessons
+Basic Java projects from [Patika.dev](https://app.patika.dev/) lessons
 
